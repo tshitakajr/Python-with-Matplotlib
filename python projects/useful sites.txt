@@ -1,0 +1,6 @@
+https://simpleprogrammer.com/python-generative-art-math/
+https://www.geeksforgeeks.org/turtle-programming-python/
+http://cs231n.github.io/python-numpy-tutorial/
+https://www.mathsisfun.com/algebra/trigonometry.html
+https://www.guru99.com/numpy-tutorial.html
+https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
